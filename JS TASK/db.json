@@ -1,0 +1,16 @@
+{
+  "expenses": [
+    {
+      "id": "8a06",
+      "name": "pizza",
+      "category": "Food",
+      "amount": "320"
+    },
+    {
+      "id": "aea4",
+      "name": "lcd",
+      "category": "Food",
+      "amount": "63000"
+    }
+  ]
+}
